@@ -1,2 +1,3 @@
-# test-gh-actions
-Testing GitHub actions
+# Test GitHub Actions
+
+Use this repository as an upstream for testing GitHub actions.
